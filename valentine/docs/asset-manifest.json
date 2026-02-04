@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b68ae791.css",
-    "main.js": "/static/js/main.3247a84b.js",
-    "static/js/453.cbcc4981.chunk.js": "/static/js/453.cbcc4981.chunk.js",
-    "index.html": "/index.html",
-    "main.b68ae791.css.map": "/static/css/main.b68ae791.css.map",
-    "main.3247a84b.js.map": "/static/js/main.3247a84b.js.map",
-    "453.cbcc4981.chunk.js.map": "/static/js/453.cbcc4981.chunk.js.map"
+    "main.css": "/valentine26/static/css/main.b68ae791.css",
+    "main.js": "/valentine26/static/js/main.d6f4661a.js",
+    "static/js/453.cbcc4981.chunk.js": "/valentine26/static/js/453.cbcc4981.chunk.js",
+    "index.html": "/valentine26/index.html",
+    "main.b68ae791.css.map": "/valentine26/static/css/main.b68ae791.css.map",
+    "main.d6f4661a.js.map": "/valentine26/static/js/main.d6f4661a.js.map",
+    "453.cbcc4981.chunk.js.map": "/valentine26/static/js/453.cbcc4981.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b68ae791.css",
-    "static/js/main.3247a84b.js"
+    "static/js/main.d6f4661a.js"
   ]
 }
