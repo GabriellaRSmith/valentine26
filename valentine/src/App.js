@@ -45,7 +45,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img className='love' src='love.jpg' />
+        <img className='love'src='love.jpg' />
         {showAlert && (
         <div className="modal-overlay" onClick={closeModal}>
         <div className="modal-content" onClick={(e) => e.stopPropagation()}>
